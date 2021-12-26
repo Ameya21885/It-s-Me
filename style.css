@@ -1,0 +1,313 @@
+
+*{
+   
+    font-size: 28px;
+    font-family: 'Lora', serif;
+    word-spacing: 5px;
+}
+
+
+
+/* navbar */ 
+.navbar{
+    padding-left: 3rem;
+    border: 3px solid red;
+    display: flex;
+padding: 2px;
+}
+.navbar img{
+  
+}
+
+.navsearch{
+    position: relative;
+    left: 19rem;
+    padding-top: 7px;
+}
+
+#contact{
+    
+    border: 1px solid black;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    left: 11rem;
+   top: 6px;
+}
+
+#news{
+    border: 1px solid black;
+    text-decoration: none;
+color: black;
+    position: relative;
+    left: 10rem;
+    top: 6px;
+}
+
+#home{
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 9rem;
+    top: 6px;
+}
+
+#home:hover{
+    
+    cursor: pointer;
+    background-color: rgb(180, 66, 66);
+    border: 3px solid red;
+}
+#news:hover{
+    cursor: pointer;
+    background-color: rgb(180, 66, 66);
+    border: 3px solid red;
+}
+#contact:hover{
+    cursor: pointer;
+    background-color: rgb(180, 66, 66);
+border: 3px solid red;
+}
+
+
+
+
+/* home page */
+#homefh{
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Serif', serif;
+   
+}
+#homesh{
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Serif', serif;
+    position: relative;
+    bottom: 2rem;
+}
+#homefp{
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Serif', serif;
+    position: relative;
+    bottom: 4rem;
+}
+
+
+.homeff{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 6rem;
+}
+.homeff h3{
+    font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+}
+.homeff p{
+    font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+#one{
+    position: relative;
+    left: 14rem;
+}
+#oneo{
+    position: relative;
+    top: 7rem;
+    left: 2rem;
+}
+
+#two{
+    position: relative;
+    left: 2.5rem;
+    bottom: 2rem;
+}
+#twot{
+    position: relative;
+    left: 35rem;
+    top: 3rem;
+}
+
+#three{
+    position: relative;
+    left: 15rem;
+    bottom: 6rem;
+}
+#threet{
+    position: relative;
+    left: 2.5rem;
+    top: 2rem;
+}
+
+
+.four{
+    display: grid;
+    justify-content: center;
+    position: relative;
+    top: 17rem;
+    left: 7rem;
+    padding: 3rem;
+}
+.fourf{
+    position: relative;
+    right: 6rem;
+}
+
+#five{
+    display: grid;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 11rem;
+    left: 1rem;
+    padding: 9rem;
+}
+
+
+/* about */
+.about{
+    position: relative;
+    top: 30rem;
+}
+
+
+
+#imgone{
+    position: relative;
+    left: 2rem;
+    bottom: 3rem;
+}
+
+#imgtwo{
+    position: relative;
+    left: 19rem;
+    bottom: 21rem;
+}
+
+#imgthree{
+    position: relative;
+    left: 37rem;
+    bottom: 39rem;
+}
+
+#imgfour{
+    position: relative;
+    bottom: 53rem;
+    left: 2rem;
+}
+
+#imgfive{
+    position: relative;
+    bottom: 71rem;
+    left: 37rem;
+}
+
+/* extra features */
+.six{
+    position: relative;
+    bottom: 19rem;
+    left: 4rem;
+}
+.sixs{
+    position: relative;
+    bottom: 17rem;
+    left: 4rem;
+}
+.sixsi{
+    position: relative;
+    bottom: 29rem;
+    left: 39rem;
+}
+
+.seven{
+    position: relative;
+    bottom: 10rem;
+    left: 1rem;
+}
+.signup{
+    position: relative;
+    bottom: 21rem;
+    left: 30rem;
+}
+
+.eight{
+display: flex;
+justify-content: center;
+position: relative;
+bottom: 5rem;
+    left: 21rem;
+word-spacing: 10rem;
+}
+
+
+#eightone{
+    font-size: 1px;
+    position: relative;
+    right: 29rem;
+}
+#eighttwo{
+    font-size: 1px;
+    position: relative;
+    right: 25rem;
+}
+#eightthree{
+    font-size: 1px;
+    position: relative;
+    right: 22rem;
+}
+#eightfour{
+    font-size: 1px;
+    position: relative;
+    right: 20rem;
+}
+
+
+
+/* button dark mode */
+.btnprimary{
+    background-color: rgb(5, 1, 29);
+    color: white;
+}
+
+.mode{
+    position: relative;
+    left: 31rem;
+    bottom: 0rem;
+}
+
+
+/* alert */
+.a{
+    position: relative;
+  top: 1rem;
+}
+  
+
+/*  */
+.b{
+   
+    position: relative;
+    top: 9rem;
+}
+.c{
+ 
+    position: relative;
+    top: 14rem;
+}
+.d{
+  
+    position: relative;
+    top: 20rem;
+}
+
+
+
+/* sticky navbar */
